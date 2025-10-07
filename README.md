@@ -19,7 +19,7 @@ Features:
 - Android Studio / VS Code
 
 ### Steps
-1. Clone: `git clone https://github.com/devduniya/crypto_portfolio_tracker.git`
+1. Clone: `git clone https://github.com/devduniya/crypto_portfolio_tracker_demo.git`
 2. Get dependencies: `flutter pub get`
 3. Run: `flutter run`
 
@@ -63,3 +63,7 @@ Features:
 MIT License
 "# crypto_portfolio_tracker" 
 "# crypto_portfolio_tracker_demo" 
+
+
+Build :-
+https://drive.google.com/file/d/1qg17qEGuut3i_RT7sj--gQZuGSgL5jb-/view?usp=drivesdk
